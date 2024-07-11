@@ -36,4 +36,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or feedback, feel free to reach out to [Your Name](https://www.linkedin.com/in/mukul-raj-58968b239/) via email at [mukulraj756@gmail.com](mailto:mukulraj756@gmail.com).
+For any inquiries or feedback, feel free to reach out to [Mukul Raj](https://www.linkedin.com/in/mukul-raj-58968b239/) via email at [mukulraj756@gmail.com](mailto:mukulraj756@gmail.com).
